@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ianm/oauth-twitch.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/oauth-twitch) or the [upstream repository](https://github.com/imorland/flarum-ext-oauth-twitch).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/ianm-oauth-twitch/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/ianm-oauth-twitch/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-11-12 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-oauth-twitch/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-11-16 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-oauth-twitch/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/ianm-oauth-twitch.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-oauth-twitch.json)
 
